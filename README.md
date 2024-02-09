@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![yusei's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusei399&theme=vue-dark&show_icons=true)](https://github.com/yusei399/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusei399&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yusei399/github-readme-stats)
 <!--
 **yusei399/yusei399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
