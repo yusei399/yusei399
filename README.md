@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusei399&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yusei399/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={yusei399}&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusei399&theme=onedark&column=7
 )](https://github.com/yusei399/github-profile-trophy)
 <!--
 **yusei399/yusei399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
